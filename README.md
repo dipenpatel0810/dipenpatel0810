@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there!
-
 
 <a href=https://www.facebook.com/> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
 
@@ -36,26 +34,17 @@ Here are some ideas to get you started:
 
 #### Let's Connect<br>
 
-#### <br>Name: 
+#### <br>Name: Dipen Patel 
 
-#### Position: 
-
-#### Email: 
-
-#### <h4>About Myself: </h4>
+#### Email: patel.dip@northeastern.edu
 
 # Education
 
 
- - <h4>College Name: </h4>
+ - <h4>College Name: Northeastern University</h4>
     
-    <h4>Degree: </h4>
+    <h4>Degree: MS in Computer Science</h4>
     
-    <h4>From:</h4>
-    
-    <h4>To: </h4>
-    
-    <h4>About College: </h4>
 
 # Work Experience
 
