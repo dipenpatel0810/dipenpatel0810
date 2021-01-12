@@ -30,9 +30,13 @@ Here are some ideas to get you started:
 # Work Experience
 
 <ul>
+  <li><h4>Avant-garde Health</h4> 
+   <h4>Software Engineer</h4> 
+   <h4>January 2021 - Present</h4> 
+ </li>
  <li><h4>Disney Streaming Service</h4> 
    <h4>Software Engineer Intern</h4> 
-   <h4>June 2020 - Present</h4> 
+   <h4>June - December 2020</h4> 
  </li>
   <li><h4>Annaly Capital Management</h4> 
    <h4>Application Developer Co-op</h4> 
