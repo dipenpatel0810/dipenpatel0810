@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 #### <br> Dipen Patel 
-
 #### patel.dip@northeastern.edu
 
 # Education
 
 
  - <h4>Northeastern University</h4>
-    
    <h4>MS in Computer Science</h4>
+   
+ - <h4>Dharmsinh Desai University</h4>
+   <h4>BTech in Information Technology</h4>
     
 
 # Work Experience
